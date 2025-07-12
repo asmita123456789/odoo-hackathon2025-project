@@ -1,3 +1,4 @@
+Demo Link: https://app.screencastify.com/watch/I8Z5jROOhYyriQxTxZF9
 # StackIt - Q&A Platform
 
 A full-stack Q&A application built with React, Node.js, and MongoDB, inspired by Stack Overflow.
